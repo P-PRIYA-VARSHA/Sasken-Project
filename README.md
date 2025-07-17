@@ -23,5 +23,4 @@ cd chat-with-your-code
 # Install dependencies
 pip install -r requirements.txt
 =======
-# Sasken-Project
->>>>>>> 7328a043f8149c77c486902630d758ae5ed2d3a1
+
