@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 💬 Chat with Your C/C++ Codebase using RAG
 
 Interact with your codebase using natural language powered by Retrieval-Augmented Generation (RAG).
